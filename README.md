@@ -1,42 +1,59 @@
 
-# Hi, I'm Aanand Kumar 👋
+<h1 align="center">Aanand Kumar</h1>
 
-### Aspiring Data Scientist | Machine Learning | Deep Learning
+<h3 align="center">Aspiring Data Scientist | Python | SQL | Machine Learning | Deep Learning</h3>
 
-I work with data to uncover meaningful insights and develop practical machine learning solutions. I focus on building projects, strengthening my analytical skills, and documenting my learning through code.
+<p align="center">
+  Turning data into insights and building practical, data-driven solutions.
+</p>
 
-## 🛠️ Technical Skills
-
-- **Languages:** Python, SQL
-- **Data Analysis:** NumPy, Pandas, Exploratory Data Analysis
-- **Visualization:** Matplotlib, Seaborn
-- **Machine Learning:** Scikit-learn, Feature Engineering, Model Evaluation
-- **Currently Learning:** Deep Learning and Neural Networks
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| [House Price Analysis](https://github.com/aanand-datascience/house-price-analysis) | Housing data analysis and price prediction |
-| [Salary Prediction ML](https://github.com/aanand-datascience/salary-prediction-ml) | Machine learning for salary prediction |
-| [EDA Playbook](https://github.com/aanand-datascience/exploratory-data-analysis-playbook) | Practical EDA techniques and visualizations |
-| [Feature Engineering Playbook](https://github.com/aanand-datascience/feature-engineering-playbook) | Data preprocessing and feature engineering |
-| [Machine Learning Playbook](https://github.com/aanand-datascience/machine-learning-playbook) | ML algorithms, evaluation, and model selection |
-| [Netflix Data Analysis](https://github.com/aanand-datascience/netflix-data-analysis) | Exploratory analysis of Netflix data |
-
-## 📚 Learning & Development
-
-- Building practical ML and DL projects
-- Improving data preprocessing and feature engineering skills
-- Learning model evaluation and optimization techniques
-
-## 📫 Connect With Me
-
-- **Email:** aanand.kr.workspace@gmail.com
-- **GitHub:** [aanand-datascience](https://github.com/aanand-datascience)
-- **LinkedIn:** Add your LinkedIn profile URL here
+<p align="center">
+  <a href="https://www.linkedin.com/in/aanand-kumar-3b8808304">LinkedIn</a> •
+  <a href="https://github.com/aanand-datascience">GitHub</a> •
+  <a href="mailto:aanand.kr.workspace@gmail.com">Email</a>
+</p>
 
 ---
 
-*Continuously learning, building, and improving through data-driven projects.*
+## About Me
 
+I'm an aspiring Data Scientist interested in data analysis, extracting meaningful insights, and developing predictive models to solve real-world problems.
+
+- Analyzing datasets using Python, SQL, and data analysis libraries
+- Exploring data through EDA and visualization
+- Practicing data preprocessing and feature engineering
+- Building and evaluating Machine Learning models
+- Currently learning Deep Learning and Neural Networks
+
+## Technical Skills
+
+- **Programming:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis (EDA)
+- **Data Visualization:** Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn, Feature Engineering, Model Evaluation
+- **Deep Learning:** Neural Networks — currently learning
+
+## Featured Projects
+
+- [House Price Analysis](https://github.com/aanand-datascience/house-price-analysis)
+- [Salary Prediction ML](https://github.com/aanand-datascience/salary-prediction-ml)
+- [Machine Learning Playbook](https://github.com/aanand-datascience/machine-learning-playbook)
+- [Exploratory Data Analysis Playbook](https://github.com/aanand-datascience/exploratory-data-analysis-playbook)
+- [Feature Engineering Playbook](https://github.com/aanand-datascience/feature-engineering-playbook)
+- [Netflix Data Analysis](https://github.com/aanand-datascience/netflix-data-analysis)
+
+## Current Focus
+
+Strengthening Python and SQL, building practical Data Science projects, and improving Machine Learning and Deep Learning skills.
+
+## Let's Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/aanand-kumar-3b8808304
+- **GitHub:** https://github.com/aanand-datascience
+- **Email:** aanand.kr.workspace@gmail.com
+
+---
+
+<p align="center">
+  <i>Learn continuously. Build practically. Improve consistently.</i>
+</p>
